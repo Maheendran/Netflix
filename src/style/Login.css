@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.background{
+  
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://isquad.tv/wp-content/uploads/2018/08/Netflix-Background.jpg");
+
+}
+
+.logo img{
+    width:8rem;
+    padding: 10px;
+
+}
+.registerform{
+    cursor: pointer;
+    margin: auto;
+    text-align: left;
+    background-color: black;
+  color :white;
+    width:20rem;
+    height: 20rem;
+    border: 0px solid white;
+   margin-top: 2rem;
+    padding: 2rem;
+
+}
+.registerform p{
+    padding: 10px;
+    cursor: pointer;
+}
+.registerform h1{
+    margin-bottom: 1rem;
+}
+.registerform input{
+    outline: none;
+    border: none;
+    margin-bottom: 5px;
+    width: 100%;
+    height: 3rem;
+    background-color: rgb(174, 172, 172);
+    color: white;
+    font-size: 20px;
+    
+}
+.signin button{
+    cursor: pointer;
+    margin-top: 1rem;
+    background-color: red;
+    color: white;
+    width: 100%;
+    height: 3rem;
+    font-size: 1rem;
+    font-weight: 500;
+}

@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0%;
+}
+body{
+  font-family:'Times New Roman', Times, serif;
+  background-color: #111;
+}
+body::-webkit-scrollbar{
+  display: none;
+}
+a{
+  text-decoration: none;
+}
